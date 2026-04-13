@@ -19,6 +19,9 @@ This system implements a multi-step pipeline for detecting urban flooding:
 8. **Flood Determination** — Proximity-based classification: water bodies near impervious surfaces are flagged as flood
 9. **Visualization** — 9-panel diagnostic figure output
 
+<img width="975" height="754" alt="image" src="https://github.com/user-attachments/assets/d31afd5b-d4a1-48e9-b1ee-bf44982ddaa1" />
+
+
 ## Key Features
 
 - **Bimodality-aware thresholding**: Ashman's D test validates whether Otsu's method is appropriate before applying it, with conservative fallback thresholds for non-bimodal scenes
