@@ -54,7 +54,8 @@ Band values should be in DN (divided by 10000 internally to get reflectance). If
     └── flood/
 ```
 The recognition results are as follows:
-![Uploading fig8.png…]()
+<img width="10155" height="7855" alt="fig8" src="https://github.com/user-attachments/assets/c47e1f19-b74b-4314-bcf8-d366cb9382e4" />
+
 
 
 ## License
